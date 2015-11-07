@@ -1,6 +1,6 @@
-.default_color{background-color: #009688 !important}
+.default_color{background-color: #424242 !important}
 
-.default_color_text{color: #009688  !important}
+.default_color_text{color: #424242  !important}
 
 .icon-block {
     padding: 0 15px;
@@ -13,7 +13,7 @@
     min-height: 632px;
     max-height: 864px;
     position: relative;
-    background-color: #009688 ;
+    background-color: #424242 ;
 }
 
 #nav_f{
@@ -41,22 +41,22 @@
 
 .text_h2 {font-weight: 100;margin-bottom: 4%; line-height: 4.5rem;}
 
-.span_h2 {font-weight: 300;color: #009688 ;}
+.span_h2 {font-weight: 300;color: #424242 ;}
 
-.text_b{color: #009688 ;}
+.text_b{color: #424242 ;}
 
 .in{font-weight: 400 !important; font-style: normal !important;}
 
 .promo i {
-    color: #009688;
+    color: #424242;
     font-size: 7rem;
     display: block;
 }
-.card-content a {color: #009688 ;}
+.card-content a {color: #424242 ;}
 
-.card-content a:hover {color: #009688}
+.card-content a:hover {color: #424242}
 
-.text_pink{color:#009688;}
+.text_pink{color:#424242;}
 
 nav ul a {
     font-size: 1.2rem;
@@ -103,7 +103,7 @@ nav ul a {
 }
 
 .cd-headline.type .cd-words-wrapper.selected b {
-    color: #009688;
+    color: #424242;
 }
 
 .cd-headline.type b {
