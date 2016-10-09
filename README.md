@@ -1,4 +1,4 @@
 # mysite
 My personal website
 
-http://rpruparel.com/
+http://rpruparel.xyz/
